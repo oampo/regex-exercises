@@ -1,0 +1,15 @@
+{
+  "name": "regex-exercises",
+  "version": "1.0.0",
+  "description": "Regex learning exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --no-colors"
+  },
+  "author": "Joe Turner <joe@oampo.co.uk>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
